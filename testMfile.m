@@ -3,6 +3,7 @@
 
 function c = addme(a,b)
 % ADDME Add two values togather
+% seems correct syntax
 % C = ADDME(A) adds A to itself.
 % C = ADDME(A,B) adds A and B togather
 %
