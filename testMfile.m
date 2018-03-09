@@ -11,9 +11,9 @@ function c = addme(a,b)
 
 switch nargin
     case 2
-        c = a + b
+        c = a + b + b
     case 1
-        c = a + a
+        c = a + a + a
     otherwise
         c = 0
 end
