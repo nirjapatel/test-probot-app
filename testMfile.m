@@ -2,8 +2,8 @@
 % check line by line and add multiple issues at a time
 
 function c = addme(a,b)
-% ADDME Add two values togather
-% seems correct syntax
+% Add two values togather
+% seems incorrect syntax
 % C = ADDME(A) adds A to itself.
 % C = ADDME(A,B) adds A and B togather
 %
